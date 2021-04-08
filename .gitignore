@@ -5,3 +5,10 @@
 /.gradle
 /build
 /.nb-gradle/
+
+# Personal etc.
+/bin/
+.classpath
+.project
+.settings
+org.eclipse.jdt.core.prefs
